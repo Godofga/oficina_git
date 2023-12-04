@@ -14,3 +14,6 @@ def multiplicacao(a, b):
 
 def potenciacao(a, b):
     return a ** b
+
+def resto_da_divisao(a, b):
+    return a%b
