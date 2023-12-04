@@ -12,3 +12,5 @@ def multiplicacao(a, b):
     return a * b
 
 
+def potenciacao(a, b):
+    return a ** b
